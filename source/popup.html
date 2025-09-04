@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>URL Hider</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <div class="header">
+      <div class="logo">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/>
+          <circle cx="12" cy="12" r="3"/>
+        </svg>
+        <h1>URL Hider</h1>
+      </div>
+      <button id="toggleBtn" class="toggle-btn" aria-label="Ativar ou desativar extensão">Desativar</button>
+    </div>
+
+    <!-- Message area -->
+    <div id="message" class="message" style="display: none;" role="alert" aria-live="polite"></div>
+
+    <!-- Main content -->
+    <div class="main-content">
+      <!-- URL Input Section -->
+      <div class="section">
+        <label for="urlInput" class="label">URL para abrir sem barra de endereço:</label>
+        <div class="input-group">
+          <input 
+            type="url" 
+            id="urlInput" 
+            class="url-input" 
+            placeholder="https://exemplo.com"
+            aria-describedby="url-help"
+          >
+          <div id="url-help" class="help-text">
+            A URL será aberta em uma nova janela sem barra de endereço visível
+          </div>
+          <button id="hideUrlBtn" class="hide-btn" aria-label="Abrir URL em janela sem barra de endereço">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24"/>
+              <line x1="1" y1="1" x2="23" y2="23"/>
+            </svg>
+            Abrir sem URL
+          </button>
+        </div>
+      </div>
+
+      <!-- Statistics Section -->
+      <div class="section">
+        <div class="stats-header">
+          <h2 class="section-title">Estatísticas de Uso</h2>
+          <div class="total-count">
+            <span class="count-label">Total:</span>
+            <span id="totalCount" class="count-value">0</span>
+          </div>
+        </div>
+        
+        <div class="chart-container">
+          <div id="chart" class="chart" role="img" aria-label="Gráfico de domínios mais acessados">
+            <p class="loading">Carregando estatísticas...</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      <p class="footer-text">Proteja suas URLs durante meets e gravações</p>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
+
