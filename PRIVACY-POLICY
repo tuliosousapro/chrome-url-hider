@@ -1,0 +1,96 @@
+# YOUR SHIT PROJECT Privacy Policy
+
+**Last Updated: August 29, 2025**
+
+This Privacy Policy outlines how the AWESOME PROJECT DEDICATED TO HUMAN LIFE ("we," "us," or "our") collects, uses, protects, and shares your data. Our goal is to ensure transparency and safeguard your privacy while enabling the extension’s functionality.
+
+---
+
+## 1. Data We Collect
+
+We collect only what is necessary for the extension to function. All data is stored locally in your browser.
+
+- **User Settings**: Your default country code (e.g., "+1") and preferred service ("App" vs. "Web"). This is needed to configure the extension to your preferences.
+- **Recent Numbers**: The last five phone numbers you have used with the extension. This is used to provide you with quick-access shortcuts.
+- **Technical Data**: We do **not** collect any technical data like browser version, IP address, or error logs.
+
+We do not collect personal info (e.g., name or email) as the extension has no user accounts or analytics.
+
+---
+
+## 2. How We Use Your Data
+
+Your data is used solely to:
+- Configure the extension’s default settings.
+- Populate the "Recent Numbers" list for your convenience.
+- Generate links and QR codes based on your input.
+
+We do **not** use your data for ads or sell it to anyone.
+
+---
+
+## 3. Data Sharing
+
+We do not share your data with any third parties.
+
+- **With WhatsApp/Meta**: The only external communication occurs when you initiate an action (like clicking "Send Message" or a generated link), which sends the phone number and optional message to WhatsApp's official servers to open a chat. This is a user-initiated action and essential for the service to function.
+
+No other parties get your data—no analytics, no marketers.
+
+---
+
+## 4. Data Security
+
+We protect your data with:
+- **Secure Local Storage**: All settings and recent numbers are stored securely in your browser's `chrome.storage.sync` area.
+- **In-Memory Processing**: Phone numbers and messages you enter are processed in the moment to generate links and are not stored, except for the "Recent Numbers" feature.
+
+No system is 100% secure, but we take every reasonable step to keep your data safe within your browser's secure environment.
+
+---
+
+## 5. Web Browsing Activity
+
+The extension does **not** monitor, access, or track your web browsing activity on any website. It only acts on phone numbers you manually select or type into the popup.
+
+---
+
+## 6. Your Rights
+
+You have full control over your data:
+- **Manage**: You can view and change your default settings at any time in the extension’s popup.
+- **Delete**: You can clear your "Recent Numbers" and settings by clearing your browser's extension data or by reinstalling the extension.
+- **Stop**: Uninstall the extension to end all data collection and remove all stored data.
+
+---
+
+## 7. Data Retention
+
+We keep data only as long as the extension is installed:
+- **Settings & Recent Numbers**: Stored as long as the extension is installed, or until you clear the data.
+- **Input Data**: Phone numbers and messages are processed in the moment and are not retained, except for the "Recent Numbers" list.
+
+---
+
+## 8. Limited Use Compliance
+
+The extension's use of information adheres to the Chrome Web Store’s Limited Use rules:
+- Data is used only for providing and improving the extension’s core user-facing features.
+- Data is never sold to third parties, used for advertising, or for credit-related purposes.
+- Data is never transferred to other parties, except when initiated by the user to open a chat on WhatsApp's official domains.
+
+---
+
+## 9. Policy Updates
+
+We may revise this policy as needed. We will post any updates here, linked in the extension's popup and on its Chrome Web Store page.
+
+---
+
+## 10. Contact Us
+
+If you have questions or requests, you can reach us at:
+- **Email**: [Your Contact Email Here]
+- **Website**: [Your GitHub Repository or Project Website Link Here]
+
+**By using Whats Link+ - WA Easy Sender, you accept this policy. If you disagree, please do not use the extension.**
