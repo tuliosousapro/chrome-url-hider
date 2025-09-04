@@ -7,7 +7,7 @@
 <h6 align="center">Uma extensão Chrome com design clean e minimalista que permite esconder a barra de URL durante meets e gravações, protegendo sua privacidade. Inclui estatísticas de uso em formato de gráfico.</h6>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">  <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow">  <img src="https://img.shields.io/badge/Platform-Chromium%20Extension-green">  <img src="https://img.shields.io/badge/Made%20with-HTML-orange">  <img src="https://img.shields.io/badge/Made%20with-CSS-purple">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">  <img src="https://img.shields.io/badge/Platform-Chromium%20Extension-green">  <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow">  <img src="https://img.shields.io/badge/Made%20with-HTML-orange">  <img src="https://img.shields.io/badge/Made%20with-CSS-purple">
 </p>
 
 ---
