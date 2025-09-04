@@ -1,5 +1,5 @@
 <a alt="URL Hider - Extensão Chrome">
-<img src="LINK DO BANNER DO TEEU REPO ">
+<img src="https://github.com/tuliosousapro/chrome-url-hider/blob/d5a42863a3e1e6c23d317c2a0e9a0e6535fb3aba/source/icons/icon128.png">
 </a>
 
 <h1 align="center">URL Hider - Extensão Chrome</h1>
