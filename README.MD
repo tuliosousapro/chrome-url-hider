@@ -1,20 +1,16 @@
-<a alt="YOUR AWESOME REPO BRAND NAME">
+<a alt="URL Hider - Extensão Chrome">
 <img src="LINK DO BANNER DO TEEU REPO ">
 </a>
 
-<h1 align="center">YOUR AWESOME REPO BRAND NAME</h1>
+<h1 align="center">URL Hider - Extensão Chrome</h1>
 
-<h6 align="center">KILLER DESCRIPTON OF YOUR PROJECT.</h6>
+<h6 align="center">Uma extensão Chrome com design clean e minimalista que permite esconder a barra de URL durante meets e gravações, protegendo sua privacidade. Inclui estatísticas de uso em formato de gráfico.</h6>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">  <img src="https://img.shields.io/badge/Made%20with-JavaScript-blue">  <img src="https://img.shields.io/badge/Platform-Chromium%20Extension-green">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">  <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow">  <img src="https://img.shields.io/badge/Platform-Chromium%20Extension-green">  <img src="https://img.shields.io/badge/Made%20with-HTML-orange">  <img src="https://img.shields.io/badge/Made%20with-CSS-purple">
 </p>
 
 ---
-
-# URL Hider - Extensão Chrome
-
-Uma extensão Chrome com design clean e minimalista que permite esconder a barra de URL durante meets e gravações, protegendo sua privacidade. Inclui estatísticas de uso em formato de gráfico.
 
 ## 🚀 Funcionalidades
 
